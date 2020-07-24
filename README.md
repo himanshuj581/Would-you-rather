@@ -2,6 +2,11 @@ This repo is the project which is created under UDacity React nanodegree program
 This is basically a game in which you can create or give answers to Poll.
 Clone this project and run you local machine and enjoy playing it.
 
+To get this project on your local machine clone it and run the command from your termainal
+
+## yarn install
+
+This command will install all the dependencies in your local machine
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
