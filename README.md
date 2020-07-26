@@ -2,6 +2,8 @@ This repo is the project which is created under UDacity React nanodegree program
 This is basically a game in which you can create or give answers to Poll.
 Clone this project and run you local machine and enjoy playing it.
 
+## Live demo - https://compassionate-lovelace-422790.netlify.app/
+
 To get this project on your local machine clone it and run the command from your termainal
 
 ## yarn install
